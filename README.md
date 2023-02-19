@@ -6,4 +6,4 @@
 
 [Link to Shared Drive](https://drive.google.com/drive/folders/1VFQlnJNaBVCLvcavTsnFe3fGRe7Amg7E?usp=sharing)
 - Add notebooks and resources currently being tested to the root.
-- Once you've checked that it works on Colab within resource limits, move it to `Checked-Notebooks`.
+- Once you've checked that it works on Colab within resource limits, move it to [`Checked-Notebooks`](https://drive.google.com/drive/folders/1Jen5EcVF7MNx30MVdB4-X0THqrGEreif?usp=share_link).
