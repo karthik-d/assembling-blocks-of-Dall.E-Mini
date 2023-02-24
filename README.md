@@ -1,9 +1,19 @@
 # Workshop on DALL.E-Mini and Image Generative Models
 
-## Working Notes
+# Illustrative Session on Image Generative Models with Dall.E Mini
 
-[Link to Verified Notebooks](./Notebooks)
+- [Link to Illustration Notebooks](./Notebooks)
+- [Link to Workshop Slides](./Slides/DallE-Mini_Compiled-Presentation.pdf)
 
-[Link to Shared Drive](https://drive.google.com/drive/folders/1VFQlnJNaBVCLvcavTsnFe3fGRe7Amg7E?usp=sharing)
-- Add notebooks and resources currently being tested to the root.
-- Once you've checked that it works on Colab within resource limits, move it to [`Checked-Notebooks`](https://drive.google.com/drive/folders/1Jen5EcVF7MNx30MVdB4-X0THqrGEreif?usp=share_link).
+<img src="./assets/workshop-banner.png" alt="workshop-banner" />
+
+## Session Overview
+
+- Overview of Dall.E Mini and its Building Blocks
+- A Brief Antedate of Autoencoders and Generative Adversarial Networks (GANs) applied in Dall.E Mini
+- BART Encoder-Decoder for Image-Text Latent Space Tranlation
+- CLIP to Rank Generated Images by Relevance to Captions
+- Piecing the Blocks of Dall.E Mini together
+
+**Implemented with**: Python, PyTorch
+
