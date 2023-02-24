@@ -1,6 +1,4 @@
-# Workshop on DALL.E-Mini and Image Generative Models
-
-# Illustrative Session on Image Generative Models with Dall.E Mini
+# Illustrative Workshop on Image Generative Models with Dall.E Mini
 
 - [Link to Illustration Notebooks](./Notebooks)
 - [Link to Workshop Slides](./Slides/DallE-Mini_Compiled-Presentation.pdf)
