@@ -1,5 +1,7 @@
 # Illustrative Workshop on Image Generative Models with Dall.E Mini
 
+Content repository for Workshop on *Assembling Blocks of Dall.E-Mini and Image Generative Models* at ICCIDS '23. 
+
 > A conference workshop on [Image and Video Analysis](https://sites.google.com/ssn.edu.in/iva-2023) as part of the [IFIP-Springer International Conference on Computational Intelligence for Data Science (ICCIDS)](http://www.iccids.in/), 2023 jointly organized by the **Machine Learning Research Group** and the [Department of CSE, SSN College of Engineering](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/), Chennai, India.
 
 - [Link to Illustration Notebooks](./Notebooks)
